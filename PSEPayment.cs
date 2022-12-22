@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Interfaces
 {
-    public class CreditCardPaymment : IPaymentMode
+    public class PSEPayment : IPaymentMode
     {
         public void MakePayment()
         {
